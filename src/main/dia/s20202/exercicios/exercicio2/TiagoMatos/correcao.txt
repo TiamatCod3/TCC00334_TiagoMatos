@@ -1,0 +1,4 @@
+
+1) Não existe Locadora
+2) Categoria/Carro é 1:N
+3) Aluguel é relacionamento
