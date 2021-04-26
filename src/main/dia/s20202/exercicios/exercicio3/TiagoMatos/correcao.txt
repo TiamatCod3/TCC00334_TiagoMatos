@@ -1,0 +1,5 @@
+
+1) "Realiza" não é relacionamento ternário
+2) Faltou hierarquia de Movimentação
+3) O relacionamento das categorias de classificação é entre os subtipos de Categoria e os subtipos de Movimentação
+4) Transfere não é relacionamento
